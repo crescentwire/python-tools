@@ -1,4 +1,4 @@
-# This is a work in progress and is not complete!
+# This is a work in progress and not complete!
 
 # Add the datetime library
 from datetime import datetime, timedelta
